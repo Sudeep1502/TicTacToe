@@ -1,4 +1,4 @@
-# PRODIGY_WD_03
+# TicTacToe
 A simple, responsive, and visually appealing **Tic Tac Toe** game built using HTML, CSS, and JavaScript. Play as X or O, and enjoy instant turn switching, winning highlights, and draw detection.
 
 ---
